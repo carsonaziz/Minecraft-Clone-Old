@@ -1,0 +1,95 @@
+air_block:
+  id: 0
+  side: none
+  top: none
+  bottom: none
+grass_block:
+  id: 1
+  side: "grass_block_side"
+  top: "grass_block_top"
+  bottom: "dirt"
+dirt:
+  id: 2
+  side: "dirt"
+  top: "dirt"
+  bottom: "dirt"
+stone:
+  id: 3
+  side: "stone"
+  top: "stone"
+  bottom: "stone"
+sand:
+  id: 4
+  side: "sand"
+  top: "sand"
+  bottom: "sand"
+bedrock:
+  id: 5
+  side: "bedrock"
+  top: "bedrock"
+  bottom: "bedrock"
+cobblestone:
+  id: 6
+  side: "cobblestone"
+  top: "cobblestone"
+  bottom: "cobblestone"
+oak_planks:
+  id: 7
+  side: "oak_planks"
+  top: "oak_planks"
+  bottom: "oak_planks"
+oak_log:
+  id: 8
+  side: oak_log
+  top: oak_log_top
+  bottom: oak_log_top
+iron_ore:
+  id: 9
+  side: iron_ore
+  top: iron_ore
+  bottom: iron_ore
+coal_ore:
+  id: 10
+  side: coal_ore
+  top: coal_ore
+  bottom: coal_ore
+diamond_ore:
+  id: 11
+  side: diamond_ore
+  top: diamond_ore
+  bottom: diamond_ore
+emerald_ore:
+  id: 12
+  side: emerald_ore
+  top: emerald_ore
+  bottom: emerald_ore
+gold_ore:
+  id: 13
+  side: gold_ore
+  top: gold_ore
+  bottom: gold_ore
+lapis_ore:
+  id: 14
+  side: lapis_ore
+  top: lapis_ore
+  bottom: lapis_ore
+redstone_ore:
+  id: 15
+  side: redstone_ore
+  top: redstone_ore
+  bottom: redstone_ore
+hay_block:
+  id: 16
+  side: hay_block_side
+  top: hay_block_top
+  bottom: hay_block_top
+mycelium:
+  id: 17
+  side: mycelium_side
+  top: mycelium_top
+  bottom: dirt
+lapis_block:
+  id: 18
+  side: lapis_block
+  top: lapis_block
+  bottom: lapis_block
